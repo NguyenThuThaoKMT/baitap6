@@ -65,8 +65,8 @@ không có ai sai khác chỉ 1 số so với sdt của e
 ![image](https://github.com/user-attachments/assets/0baa98e5-e95f-4a59-aa05-96afb47c33c1)
 
 10. HÃY NHẬP SQL ĐỂ LIỆT KÊ CÁC SV NỮ NGÀNH KMT CÓ TRONG BẢNG SV (TRÌNH BÀY QUÁ TRÌNH SUY NGHĨ VÀ GIẢI NHỮNG VỨNG MẮC)
-- Độ chính xác không cao vì họ đệm và tên chỉ có thể so sánh nhưng có nhiều bạn tên giống với cả nam và nữ
-- 
+- Độ chính xác không cao vì có nhiều bạn tên giống với cả nam và nữ
+  
     ![image](https://github.com/user-attachments/assets/4f13923a-0f1b-467a-a8e9-53acc107bda9)
 
 
